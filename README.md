@@ -5,4 +5,5 @@ I use https://scriptdumper.com/deobfuscator for basic JJSploit and MoonSec-V3 du
 
 # CURRENT-SUPPORTED-GAMES
 Arsenal - NameHub-2026
+
 Rivals - Namehub-2026
