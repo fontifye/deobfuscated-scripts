@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://loadstring.net/raw/font/dumped-scripts/NameHub-ArsenalDump.lua"))()
